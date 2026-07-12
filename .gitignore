@@ -1,0 +1,8 @@
+node_modules/
+dist/
+
+# Build info
+*.tsbuildinfo
+
+# Editor / tooling
+.zcode/
